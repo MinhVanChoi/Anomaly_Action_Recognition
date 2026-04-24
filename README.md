@@ -125,6 +125,9 @@ predict_video(video_path)
 
 ---
 
-## 👨‍💻 Author
 
-Developed for research in **Video Surveillance & Anomaly Detection Systems**.
+## Result
+<img width="1569" height="780" alt="image" src="https://github.com/user-attachments/assets/debaa3de-9ecb-4005-9b8e-c1f6fd59532f" />
+
+<img width="1567" height="788" alt="image" src="https://github.com/user-attachments/assets/391c1936-a76c-4367-9c24-1b848cf3c94f" />
+
